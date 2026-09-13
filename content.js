@@ -10,7 +10,7 @@ const products = {
     { id: 'sandwich', name: 'Sandwich', price: 7.00, category: 'food', image: 'images/products/sandwich.jpg' },
     { id: 'salad', name: 'Fresh Salad', price: 6.50, category: 'food', image: 'images/products/salad.jpg' },
     { id: 'pasta', name: 'Pasta', price: 8.00, category: 'food', image: 'images/products/pasta.jpg' },
-    { id: 'burger', name: 'Burger', price: 7.50, category: 'food', image: 'images/products/burger.jpg' },
+    { id: 'burger', name: 'Burger', price: 7.50, category: 'food', image: 'img/pepperoni-pizza-recipe-photos-tablefortwoblog-7.jpg' },
   ],
   desserts: [
     { id: 'cake', name: 'Cake Slice', price: 4.50, category: 'desserts', image: 'images/products/cake.jpg' },
